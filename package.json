@@ -1,0 +1,14 @@
+{
+  "name": "mountain-wheels",
+  "description": "T2 Case Problem 2: Mountain Wheels",
+  "version": "1.0.0",
+  "main": "mw_tour.html",
+  "license": "MIT",
+  "author": "Hesbon Osoro <hesbonosoro1@gmail.com>",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
